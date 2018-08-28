@@ -1,12 +1,16 @@
 # Scrapy and Scrapyrt
 
 How to create your own API from (almost) any website.
+# About the Project 
+
+We will scrape the URL: https://coinmarketcap.com/all/views/all/. It contains information about cryptocurrencies such as their current prices, their price variations, etc.
 
 ## Getting Started
 ```
-$ https://github.com/HigorMonteiro/Scrapy-Scrapyrt.git
+$ git clone https://github.com/HigorMonteiro/Scrapy-Scrapyrt.git
 $ cd Scrapy-Scrapyrt
 $ virtualenv -p python3.6 .env
+$ source .env/bin/activate
 $ pip install -r requirements.txt
 $ scrapy crawl coin -o coin.json
 $ scrapyrt -p 3000
