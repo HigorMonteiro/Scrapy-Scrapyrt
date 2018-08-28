@@ -21,4 +21,4 @@ $ virtualenv
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/HigorMonteiro)
+* **Higor Monteiro** - *Initial work* - [HigorMonteiro](https://github.com/HigorMonteiro)
