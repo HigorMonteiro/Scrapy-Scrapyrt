@@ -1,6 +1,6 @@
 # Scrapy and Scrapyrt
 
-how to create your own API from (almost) any website
+How to create your own API from (almost) any website.
 
 ## Getting Started
 ```
